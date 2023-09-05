@@ -1,0 +1,3 @@
+/Users/joaquingalindogonzalez/Desktop/tarea-1-eda-master/sort/tests/CMakeFiles/test.dir
+/Users/joaquingalindogonzalez/Desktop/tarea-1-eda-master/sort/tests/CMakeFiles/edit_cache.dir
+/Users/joaquingalindogonzalez/Desktop/tarea-1-eda-master/sort/tests/CMakeFiles/rebuild_cache.dir
